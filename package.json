@@ -1,0 +1,21 @@
+{
+  "name": " da2rca-simple-calculator-using-inquirer",
+  "version": "1.0.2",
+  "description": "simple calculator",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sadam",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
